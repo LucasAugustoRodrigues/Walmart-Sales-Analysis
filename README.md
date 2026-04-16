@@ -238,4 +238,7 @@ Kit de entrega completo e pronto para portfólio.
 Projeto desenvolvido para a disciplina **Modelagem e Estatística** —
 1.º Bimestre — Ciência da Computação.
 
+- Lucas Augusto Rodrigues
+- Vitor Bismarck
+
 Grupo **Bingo do Giras**
