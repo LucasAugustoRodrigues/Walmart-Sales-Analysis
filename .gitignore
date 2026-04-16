@@ -1,0 +1,30 @@
+# ── Dados sensíveis / pesados ──────────────────────────────────────────────
+Walmart_Sales.csv
+
+# ── Ambientes virtuais ─────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── Python cache ───────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ── Jupyter ────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── Figuras geradas pelo notebook ──────────────────────────────────────────
+*.png
+*.jpg
+*.jpeg
+
+# ── Sistema operacional ────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── IDEs ───────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.code-workspace

@@ -1,0 +1,13 @@
+# Walmart Store Sales — dependências fixadas
+# Compatível com Python 3.13+
+# Instalar: pip install -r requirements.txt
+
+pandas>=2.2.3
+numpy>=2.1.0
+matplotlib>=3.9.0
+seaborn>=0.13.2
+statsmodels>=0.14.4
+scipy>=1.14.0
+scikit-learn>=1.5.0
+streamlit>=1.42.0
+plotly>=5.24.0
